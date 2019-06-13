@@ -6,4 +6,4 @@ Weather information is pulled from OpenWeatherMap API. Api key not included in t
 https://openweathermap.org/api
 
 ## Screenshots
-![image](/screenshots/weather_info_page.png?raw=true)
+<img src="/screenshots/weather_info_page.png" height="600">
